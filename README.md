@@ -1,1 +1,1 @@
-This is the description of my repo
+This task is to practice branching, merging, and resolving conflicts.
